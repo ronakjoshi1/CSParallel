@@ -2,7 +2,7 @@ CC = gcc
 LIB = -lpthread
 EXE0 = part22.exe
 EXE1 = part1.exe
-#EXE2 = pthreads_findmin.exe
+EXE2 = part1.1.exe
 #EXE3 = pthreads_pi.exe
 
 %.exe : %.o
