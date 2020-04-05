@@ -1,7 +1,7 @@
 CC = gcc
 LIB = -lpthread
 EXE0 = part22.exe
-#EXE1 = producer_consumer_model.exe
+EXE1 = part1.exe
 #EXE2 = pthreads_findmin.exe
 #EXE3 = pthreads_pi.exe
 
